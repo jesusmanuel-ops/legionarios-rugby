@@ -19,7 +19,7 @@ display:flex;
 justify-content:space-between;
 align-items:center;
 padding:20px;
-background:#020617;
+background:#1e40af;
 position:fixed;
 top:0;
 width:100%;
@@ -89,8 +89,10 @@ font-weight:bold;
 margin-top:15px;
 }
 
-#inicio{
-display:block;
+.seccion{
+padding-top:140px;
+min-height:100vh;
+text-align:center;
 }
 
 .tabla{
